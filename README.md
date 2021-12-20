@@ -29,4 +29,4 @@ You will start from the following interface, and you can change the settings wit
 
 Enjoy it!
 
-![selection sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/selction_sort.png)
+![selection sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/selection_sort_2.png)
