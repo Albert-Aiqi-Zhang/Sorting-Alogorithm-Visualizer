@@ -10,7 +10,8 @@ You can download the sortingVisualizer.py in you own PC. You need to install Pyg
 Feel free to make any change.
 
 # Manual:
-Generally you can control the application with a keyboard. The shortcuts are shown in the above figure.    
+Generally you can control the application with a keyboard. The shortcuts are shown in the above figure.  
+### ShortKeys:
 R: reset the random numbers   
 SPACE: start the sorting  
 A: change the sorting order to ascending order  
