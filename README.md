@@ -1,5 +1,5 @@
 # Sorting-Alogorithm-Visualizer
-A visualizer of insertion sort, selection sort, quick sort, heap sort, etc.
+This is a visualizer of insertion sort, selection sort, quick sort, heap sort, etc.     
 Welcome to my sorting algorithm visualizer! This program is written in Python. In my opinion, sorting algorithm is a beauty around all algorithms, so I decide to make a visualization of them.
 
 ![merge sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/merget_sort.png)
