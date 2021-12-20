@@ -4,7 +4,7 @@ Welcome to my sorting algorithm visualizer! This program is written in Python. I
 
 ![merge sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/merget_sort.png)
 
-This application is inspired by a Youtuber, Tech with Tim. He has a tutorial of the sorting algorthim. (URL: https://github.com/techwithtim/Sorting-Algorithm-Visualizer) Inspired by his work, I implemented selection sort, quick sort, heap sort, etc., in my application.
+This application is inspired by a Youtuber, Tech with Tim. He has a tutorial of visualization of sorting algorthims. (URL: https://github.com/techwithtim/Sorting-Algorithm-Visualizer) Inspired by his work, I implemented selection sort, quick sort, heap sort, etc., in my application.
 
 You can download the sortingVisualizer.py in you own PC. You need to install Pygame to run this program.
 Feel free to make any change.
