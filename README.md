@@ -28,6 +28,8 @@ M: change the sorting algorithm to merge sort
 You will start from the following interface, and you can change the settings with the shortcuts.
 ![opening interface](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/opening.png)
 
-Enjoy it!
+Press S and D to swift to selction sorting algorithm in descending order. And press SPACE to start sortint.
 
 ![selection sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/selection_sort_2.png)
+
+Enjoy it!
