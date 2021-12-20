@@ -6,3 +6,19 @@ This application is inspired by a Youtuber Tech with Tim. He has a tutorial of t
 
 You can download the sortingVisualizer.py in you own PC. You need to install Pygame to run this program.
 
+Manual:
+Generally you can control the application with a keyboard. The shortcuts are shown in the above figure.
+R: reset the random numbers
+SPACE: start the sorting
+A: change the sorting order to ascending order
+D: change the sorting order to descending order
+LEFT: decrease the current number by 10 (speed up the sorting)
+RIGHT: increase the current number by 10 (slow down the sorting)
+I: change the sorting algorithm to insertion sort
+B: change the sorting algorithm to bubble sort
+S: change the sorting algorithm to selection sort
+Q: change the sorting algorithm to quick sort
+H: change the sorting algorithm to heap sort
+M: change the sorting algorithm to merge sort
+
+You will start from the following interface, and you can change the settings with the shortcuts.
