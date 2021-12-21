@@ -34,4 +34,4 @@ Press S and D to swift to selction sorting algorithm in descending order. And pr
 
 Enjoy it!
 
-PS: You can also go to the exe/ folder to download the exe version and run it in you PC!
+PS: You can also go to the exe/ folder to download the exe version and run it on you PC!
