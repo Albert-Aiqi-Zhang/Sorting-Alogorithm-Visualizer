@@ -33,3 +33,5 @@ Press S and D to swift to selction sorting algorithm in descending order. And pr
 ![selection sort](https://github.com/Albert-Aiqi-Zhang/Sorting-Alogorithm-Visualizer/blob/main/Screen%20Shots/selection_sort_2.png)
 
 Enjoy it!
+
+PS: You can also go to the exe/ folder to download the exe version and run it in you PC!
